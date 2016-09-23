@@ -1,0 +1,7 @@
+.question {
+    background-color: lightblue;
+}
+tr#answers {
+    background-color: green;
+    text-align: center;
+}
