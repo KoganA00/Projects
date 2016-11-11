@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\lesson 21\create\create\bin\Debug\create.exe
+C:\Users\User\Desktop\lesson 21\create\create\bin\Debug\create.pdb
+C:\Users\User\Desktop\lesson 21\create\create\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\lesson 21\create\create\obj\x86\Debug\create.exe
+C:\Users\User\Desktop\lesson 21\create\create\obj\x86\Debug\create.pdb
