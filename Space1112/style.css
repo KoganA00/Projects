@@ -1,0 +1,16 @@
+body 
+{
+  background-color:black;
+ }
+h1 
+{
+color:White;
+font-family:Space;
+}
+@font-face {
+    font-family: Space; /* Имя шрифта */
+    src: url(Space.ttf); /* Путь к файлу со шрифтом */
+   }
+ p {
+	 color:rgb(255,255,255);
+	 }
